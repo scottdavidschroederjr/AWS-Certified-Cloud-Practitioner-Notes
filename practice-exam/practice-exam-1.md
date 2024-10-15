@@ -4,80 +4,8 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 If this practice exam has been helpful to you please share it with others and react to this below.
 
----
 
-1. AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
-    - A. AWS CLI.
-    - B. AWS API.
-    - C. AWS SDK.
-    - D. AWS Management Console.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-2. Which of the following is an example of horizontal scaling in the AWS Cloud?
-    - A. Replacing an existing EC2 instance with a larger, more powerful one.
-    - B. Increasing the compute capacity of a single EC2 instance to address the growing demands of an application.
-    - C. Adding more RAM capacity to an EC2 instance.
-    - D. Adding more EC2 instances of the same size to handle an increase in traffic.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-3. You have noticed that several critical Amazon EC2 instances have been terminated. Which of the following AWS services would help you determine who took this action?
-    - A. Amazon Inspector.
-    - B. AWS CloudTrail.
-    - C. AWS Trusted Advisor.
-    - D. EC2 Instance Usage Report.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-4. Which of the below options are related to the reliability of AWS? (Choose TWO)
-    - A. Applying the principle of least privilege to all AWS resources.
-    - B. Automatically provisioning new resources to meet demand.
-    - C. All AWS services are considered Global Services, and this design helps customers serve their international users.
-    - D. Providing compensation to customers if issues occur.
-    - E. Ability to recover quickly from failures.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, E
-    </details>
-
-5. Which statement is true regarding the AWS Shared Responsibility Model?
-    - A. Responsibilities vary depending on the services used.
-    - B. Security of the IaaS services is the responsibility of AWS.
-    - C. Patching the guest OS is always the responsibility of AWS.
-    - D. Security of the managed services is the responsibility of the customer.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-6. You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
-    - A. The Reserved Instance discounts can only be shared with the master account.
-    - B. All accounts can receive the hourly cost benefit of the Reserved Instances.
-    - C. The purchased instances will have better performance than On-demand instances.
-    - D. There are no cost benefits from using consolidated billing; It is for informational purposes only.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-7. A company has developed an eCommerce web application in AWS. What should they do to ensure that the application has the highest level of availability?
-    - A. Deploy the application across multiple Availability Zones and Edge locations.
-    - B. Deploy the application across multiple Availability Zones and subnets.
-    - C. Deploy the application across multiple Regions and Availability Zones.
-    - D. Deploy the application across multiple VPC’s and subnets.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-8. What does AWS Snowball provide? (Choose TWO)
+**8. What does AWS Snowball provide? (Choose TWO)**
     - A. Built-in computing capabilities that allow customers to process data locally.
     - B. A catalog of third-party software solutions that customers need to build solutions and run their businesses.
     - C. A hybrid cloud storage between on-premises environments and the AWS Cloud.
@@ -88,7 +16,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, E
     </details>
 
-9. A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
+**9. A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
     - A. AWS Health Dashboard.
     - B. AWS Support Concierge.
     - C. AWS Customer Service.
@@ -97,18 +25,9 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
+**
 
-10. A Japanese company hosts their applications on Amazon EC2 instances in the Tokyo Region. The company has opened new branches in the United States, and the US users are complaining of high latency. What can the company do to reduce latency for the users in the US while minimizing costs?
-    - A. Applying the Amazon Connect latency-based routing policy.
-    - B. Registering a new US domain name to serve the users in the US.
-    - C. Building a new data center in the US and implementing a hybrid model.
-    - D. Deploying new Amazon EC2 instances in a Region located in the US.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-11. An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
+**11. An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
     - A. IAM roles.
     - B. IAM users.
     - C. IAM user groups.
@@ -117,16 +36,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
-12. A company has decided to migrate its Oracle database to AWS. Which AWS service can help achieve this without negatively impacting the functionality of the source database?
-    - A. AWS OpsWorks.
-    - B. AWS Database Migration Service.
-    - C. AWS Server Migration Service.
-    - D. AWS Application Discovery Service.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
+**
 
 13. Adjusting compute capacity dynamically to reduce cost is an implementation of which AWS cloud best practice?
     - A. Build security in every layer.
