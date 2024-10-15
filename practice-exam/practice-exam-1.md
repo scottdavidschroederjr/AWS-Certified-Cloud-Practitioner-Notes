@@ -57,36 +57,6 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, E
     </details>
 
-15. What is the advantage of the AWS-recommended practice of "decoupling" applications?
-    - A. Allows treating an application as a single, cohesive unit.
-    - B. Reduces inter-dependencies so that failures do not impact other components of the application.
-    - C. Allows updates of any monolithic application quickly and easily.
-    - D. Allows tracking of any API call made to any AWS service.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-16. Which of the following helps a customer view the Amazon EC2 billing activity for the past month?
-    - A. AWS Budgets.
-    - B. AWS Pricing Calculator.
-    - C. AWS Systems Manager.
-    - D. AWS Cost & Usage Reports.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-17. What do you gain from setting up consolidated billing for five different AWS accounts under another master account?
-    - A. AWS services’ costs will be reduced to half the original price.
-    - B. The consolidated billing feature is just for organizational purpose.
-    - C. Each AWS account gets volume discounts.
-    - D. Each AWS account gets five times the free-tier services capacity.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
 18. What should you do in order to keep the data on EBS volumes safe? (Choose TWO)
     - A. Regularly update firmware on EBS devices.
     - B. Create EBS snapshots.
