@@ -5,7 +5,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 If this practice exam has been helpful to you please share it with others and react to this below.
 
 
-**8. What does AWS Snowball provide? (Choose TWO)**
+8. What does AWS Snowball provide? (Choose TWO)
     - A. Built-in computing capabilities that allow customers to process data locally.
     - B. A catalog of third-party software solutions that customers need to build solutions and run their businesses.
     - C. A hybrid cloud storage between on-premises environments and the AWS Cloud.
@@ -16,7 +16,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, E
     </details>
 
-**9. A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
+9. A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
     - A. AWS Health Dashboard.
     - B. AWS Support Concierge.
     - C. AWS Customer Service.
@@ -25,9 +25,8 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-**
 
-**11. An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
+11. An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
     - A. IAM roles.
     - B. IAM users.
     - C. IAM user groups.
@@ -36,7 +35,6 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-**
 
 13. Adjusting compute capacity dynamically to reduce cost is an implementation of which AWS cloud best practice?
     - A. Build security in every layer.
